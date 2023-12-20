@@ -1,1 +1,0 @@
-# data-peminjaman-sepeda-dengan-stream-lit
